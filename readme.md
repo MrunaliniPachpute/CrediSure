@@ -69,8 +69,8 @@ Since approving high-risk customers is costly:
 
 ## 💻 Deployment
 
-The model is deployed using **Streamlit** for real-time predictions. \n
-Check Out : https://credisure-guytm4ja8llfpk5rke68qs.streamlit.app/
+The model is deployed using **Streamlit** for real-time predictions.
+```Check Out : https://credisure-guytm4ja8llfpk5rke68qs.streamlit.app/ ```
 
 ### Features:
 - User-friendly interface

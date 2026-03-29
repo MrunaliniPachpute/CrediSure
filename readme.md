@@ -82,8 +82,8 @@ The model is deployed using **Streamlit** for real-time predictions.
 
 ## 📸 Demo
 
-<img width="500" height="600" alt="Screenshot (1645)" src="https://github.com/user-attachments/assets/0216a022-6a97-43f5-a16b-96d57f72c37e" />
-<img width="500" height="600" alt="Screenshot (1644)" src="https://github.com/user-attachments/assets/f7fdb2f6-41ee-4b6e-9644-118cf2b3fc15" />
+<img width="500" height="600" margin="5" alt="Screenshot (1645)" src="https://github.com/user-attachments/assets/0216a022-6a97-43f5-a16b-96d57f72c37e" />
+<img width="500" height="600"  margin="5" alt="Screenshot (1644)" src="https://github.com/user-attachments/assets/f7fdb2f6-41ee-4b6e-9644-118cf2b3fc15" />
 
 ---
 
